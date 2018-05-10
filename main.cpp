@@ -1,10 +1,3 @@
-// $CB_BEGIN_HEADER$                                                    //
-/*************************************************************************
- * Copyright (C) coralbay.tv Ltd. - All Rights Reserved.
- * Unauthorized copying of this file via any medium is strictly prohibited
- * Proprietary and Confidential
- ************************************************************************/
-// $CB_END_HEADER$                                                      //
 
 // Libraries
 #include <iostream>
@@ -707,6 +700,3 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-
-// $CB_BEGIN_FOOTER$                                                    //
-// $CB_END_FOOTER$                                                      //
